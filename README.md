@@ -1,4 +1,4 @@
-Populate clockify for CURRENT month, up to current day. Workdays only! Personal use only.
+Populate clockify for CURRENT month, up to current day (workdays only). Personal use only.
 
 Usage: ruby e_calendar_up_to_today.rb <api_key> [workspace_id] [project_id] [task_id]
   - If only <api_key> is provided: Lists available workspaces.
